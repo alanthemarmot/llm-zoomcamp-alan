@@ -29,3 +29,10 @@ Video - codespaces (https://www.youtube.com/watch?v=ozCpmkbJNJE&list=PL3MmuxUbc_
 
 ## 1.3 Retrieval
 
+Video - (https://www.youtube.com/watch?v=olvem333Bqo&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R&index=3)
+
+* We will use the implemntation in the [build-your-own-search-engine workshop] https://github.com/alexeygrigorev/build-your-own-search-engine 
+* [minsearch] (https://github.com/alexeygrigorev/minsearch)
+* !wget https://raw.githubusercontent.com/alexeygrigorev/minsearch/main/minsearch.py
+* 
+* 
