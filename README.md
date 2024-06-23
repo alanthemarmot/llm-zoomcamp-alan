@@ -3,6 +3,8 @@ repo for my llm datatalks zoomcamp work
 
 #Module 1: Introduction
 
+## 1.1 Introduction
+
 * llm
 * RAG
 * RAG Architecture
